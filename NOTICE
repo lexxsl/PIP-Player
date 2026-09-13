@@ -1,0 +1,8 @@
+PIP-Player
+Based on Picture-in-Picture Everywhere version 1.10.
+Original JavaScript copyright 2018/2019 Google LLC, Apache License 2.0.
+Modified in 2026: Manifest V3 migration, frame coordination, Document PiP,
+browser-managed placement reuse, DOM restoration, cleanup and error handling.
+Version 2.1.0 adds local content-size persistence and guards video styles.
+Version 2.1.1 uses the player icon supplied and authorized by the user.
+No affiliation with or endorsement by Google or the original extension author.
